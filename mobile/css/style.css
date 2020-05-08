@@ -9,7 +9,7 @@ img {
     vertical-align: middle;
 }
 .emag-wrapper {
-    background-color: #fbf3dd;
+    background-color: #e9e1cd;
 }
 /* .emag-cover {
     padding-top: 46px;
@@ -105,7 +105,8 @@ img {
     font-family: Helvetica, Arial, sans-serif;
     font-size: 14px;
     line-height: 20px;
-    color: #999;
+    /* color: #999; */
+    font-style: italic;
     padding: 0 15px;
     margin-bottom: 30px;
 }
